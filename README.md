@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This project is only meant to strengthen the Horiseon webpage for impaired users and allow for the website to appear at a better ranking for search engines to improve discoverability.
+This project is only cleared for usage by Horiseon Social Services, Inc. 
 
 ## Credits
 
